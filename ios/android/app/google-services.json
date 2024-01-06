@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398739327882",
+    "project_id": "calorie-craft-8438a",
+    "storage_bucket": "calorie-craft-8438a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398739327882:android:637cdc74f5620a67575673",
+        "android_client_info": {
+          "package_name": "com.example.diet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBEAlI0QecdGvjyGWDwh9I7lJoA1E6kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
